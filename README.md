@@ -1,2 +1,3 @@
 # hello-world
-Ideas/ Achievements/ Resources
+
+I m Ishant, a cpp coder and php developer. 
